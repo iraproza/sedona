@@ -61,6 +61,7 @@
         "yargs": "^13.2.4"
     },
     "dependencies": {
+        "bootstrap": "^4.6.0",
         "smart-grid": "^2.1.2"
     }
 }

@@ -1,0 +1,12 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    text-transform: uppercase;
+    a{
+        color: $black;
+        font-family: $font-bold;
+        font-size: 14px;
+        line-height: 26px;
+    }
+}
